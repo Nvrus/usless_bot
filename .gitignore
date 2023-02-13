@@ -210,3 +210,5 @@ ENV/
 
 # mkdocs documentation
 /site
+/Token_bot.txt
+/settings.py
