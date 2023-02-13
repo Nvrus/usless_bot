@@ -212,3 +212,4 @@ ENV/
 /site
 /Token_bot.txt
 /settings.py
+/database.txt
