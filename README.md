@@ -7,4 +7,6 @@ Do a telebot for job and fun
 4. for more info to create and take a GROUP_CHAT_ID use:
 https://lumpics.ru/how-find-out-chat-id-in-telegram/
 In this ru side you can give more info. USE IT
-5. 
+5. I'm use a fauna db. It'n norela// database.
+6. Site of fauna is: https://fauna.com/
+7. 

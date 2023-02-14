@@ -12,10 +12,10 @@ def getdays(message):
     with open('database.txt') as db:
         bot.send_message(message.chat.id, str(int(db.read()) +1))
 
-@bot.message_handler(commands=['gift'])
-def getdays(message):
-    with open('for_you.jpg') as db:
-        bot.send_photo(message.chat.id, photo=open('for_you.jpg', 'rb'))
+# @bot.message_handler(commands=['gift'])
+# def getdays(message):
+#     with open('for_you.jpg') as db:
+#         bot.send_photo(message.chat.id, photo=open('for_you.jpg', 'rb'))
 
 
 if __name__ == '__main__':
